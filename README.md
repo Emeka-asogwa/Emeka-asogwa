@@ -1,5 +1,3 @@
-![Screenshot](background.jpeg)
-
 ## Welcome to my GitHub page ##
                         ✍🏽 
 

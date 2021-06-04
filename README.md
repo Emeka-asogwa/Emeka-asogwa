@@ -1,7 +1,7 @@
 ## Welcome to my GitHub page ##
                         ✍🏽 
 
-I am Emeka, a graduate of Physics and Mathematics, and a freelance Full Stack Developer based in Ontario, Canada 🇨🇦. I have high interest in Computer Software, Development and Engineering, and Web Development. I have the necessary tools and background knowledge, together with the experience to tackle projects in this field. I am currently involved with different development projects. Let me know if you have project(s) you want us to talk about, I will be happy to discuss that! 
+I am Emeka (some people call me Menco), a graduate of Physics and Mathematics, and a freelance Full Stack Developer based in Ontario, Canada 🇨🇦. I have high interest in Software Development and Engineering. I have the necessary tools and background knowledge, together with the experience to solve problems in this field. I am currently involved with different Web development projects. Let me know if you have project(s) you want us to talk about, I will be happy to discuss that! 
 
 ***
 ***

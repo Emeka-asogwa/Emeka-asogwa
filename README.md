@@ -2,7 +2,7 @@
 
                         ✍🏽
 
-I am a full round Software Engineer, having fun as a Site Reliability Engineer. I have high interest in the Development and Operation (DevOps) of software application in general.
+I am a Site Reliability Engineer, having fun in Cloud Security and Infrastructure Reliability. I have a high interest in the Development and Operation (DevOps) of software applications in general including security.
 
 ---
 
